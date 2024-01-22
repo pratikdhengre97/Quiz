@@ -1,1 +1,1 @@
-# Quiz
+Quiz is a project in which html, css and javascript is used. Javascript is the main file due to which answers can be figured out. A user interacting with the project should be able to know general knowledge.
